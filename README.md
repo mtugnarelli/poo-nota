@@ -1,4 +1,7 @@
-poo-nota
-========
+UNTreF - Algoritmos y Programación 1
 
-UNTreF - Algoritmos y Programación 1 - Ejercicio
+# Práctica de POO - Nota
+
+## Enunciado
+
+Implementar la clase `Nota` que represente la calificación obtenida por un alumno en un examen.
