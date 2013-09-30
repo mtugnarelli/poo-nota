@@ -1,6 +1,6 @@
 UNTreF - Algoritmos y Programación 1
 
-# Práctica de POO - Nota
+# Práctica de POO (Encapsulamiento) - Nota
 
 ### Enunciado
 
